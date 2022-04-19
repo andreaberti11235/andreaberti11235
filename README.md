@@ -1,4 +1,11 @@
-### Hi there 👋
+# About me
+
+I'm a Physicist, currently working as a Research Fellow at the Institute of Information Science and Technologies ISTI of the National Research Council CNR in Pisa.
+
+My research interests are on Neural Network models applied to medical images with a specific focus on explainable-by-design models for Deep Learning.
+
+I've collaborated with @gianlucarloni to the repositories [ProtoPNet](https://github.com/andreaberti11235/ProtoPNet) and [dataset_utils](https://github.com/gianlucarloni/dataset_utils_scripts).
+
 
 <!--
 **andreaberti11235/andreaberti11235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
