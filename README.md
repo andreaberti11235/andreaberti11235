@@ -4,7 +4,7 @@ I'm a Physicist, currently working as a Research Fellow at the Institute of Info
 
 My research interests are on Neural Network models applied to medical images with a specific focus on explainable-by-design models for Deep Learning.
 
-I've collaborated with @gianlucarloni to the repositories [ProtoPNet](https://github.com/andreaberti11235/ProtoPNet) and [dataset_utils](https://github.com/gianlucarloni/dataset_utils_scripts).
+I've collaborated with [gianlucarloni](https://github.com/gianlucarloni) to the repositories [ProtoPNet](https://github.com/andreaberti11235/ProtoPNet) and [dataset_utils](https://github.com/gianlucarloni/dataset_utils_scripts).
 
 
 <!--
